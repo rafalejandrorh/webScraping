@@ -1,0 +1,23 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Web Scraping con NodeJs y Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafalejandrorh/webScraping.git"
+  },
+  "author": "Rafael Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafalejandrorh/webScraping/issues"
+  },
+  "homepage": "https://github.com/rafalejandrorh/webScraping#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "puppeteer": "^21.5.2"
+  }
+}
